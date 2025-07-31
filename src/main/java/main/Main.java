@@ -58,7 +58,7 @@ class Main {
         UpdatedBalance = balance + amount;
         try{
             BufferedWriter writer = new BufferedWriter(new FileWriter(receipt, true));
-            writer.write(date + " -- In -- £" + amount + " - " + reason + "\n");
+            writer.write(date + " -- In -- £" + amount + " -- " + reason + "\n");
             writer.close();
         } catch (IOException e) {
             throw new RuntimeException(e);

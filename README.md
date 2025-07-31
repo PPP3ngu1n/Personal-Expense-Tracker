@@ -26,7 +26,7 @@ cd Personal-Expense-Tracker
 - Expected Results:
   - Balance.txt updated to 100
   - receipt.txt contains a new line like:
-  ``Date -- In -- £100 - Salary``
+  ``Date -- In -- £100 -- Salary``
   - Balance is shown as £100 when selecting [3. Display]
 
 **Test case 2: (Minus Expense):**
@@ -38,7 +38,7 @@ cd Personal-Expense-Tracker
 - Expected Result:
   - Balance.txt updated to 60.0
   - reciept.txt contains a new line like:
-  ``Date -- Out -- £40 - Groceries``
+  ``Date -- Out -- £40 -- Groceries``
   - Balance is shown as £60 when selecting [3. Display]
 
 **Test case 3: (Viewing all logs)**
