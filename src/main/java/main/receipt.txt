@@ -1,0 +1,4 @@
+2025-07-31 -- Out -- £800 -- Test 4
+2025-07-31 -- In -- £230 - Test 1 for Adding
+2025-07-31 -- Out -- £23 -- Test 1 for Minus
+2025-07-31 -- In -- £200 - Test 2 For adding to account
